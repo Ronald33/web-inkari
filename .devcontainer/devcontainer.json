@@ -36,7 +36,8 @@
 				"felixfbecker.php-intellisense",
 				"calebporzio.better-phpunit",
 				"xdebug.php-debug",
-				"emeraldwalk.RunOnSave"
+				"emeraldwalk.RunOnSave",
+				"vincaslt.highlight-matching-tag"
 			]
         }
     }

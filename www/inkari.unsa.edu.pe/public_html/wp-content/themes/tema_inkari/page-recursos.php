@@ -19,157 +19,178 @@ get_template_part('page-header');
     <!-- Grid row -->
     <div class="row">
 
-    <!-- Grid column -->
-    <div class="col-lg-5 text-center">
-        <img class="img-fluid" src="<?=get_template_directory_uri();?>/images/rack.png" alt="Sample image" />
-    </div>
-    <!-- Grid column -->
-
-    <!-- Grid column -->
-    <div class="col-lg-7">
-
-        <!-- Grid row -->
-        <div class="row mb-3">
-
         <!-- Grid column -->
-        <div class="col-1">
-            <i class="fas fa-star-of-life mt-1"></i>
+        <div class="col-lg-5 text-center">
+            <img class="img-fluid" src="<?=get_template_directory_uri();?>/images/rack.png" alt="Sample image" />
         </div>
         <!-- Grid column -->
 
         <!-- Grid column -->
-        <div class="col-xl-10 col-md-11 col-10">
-            <h5 class="font-weight-bold mb-3">Características de software y Hardware</h5>
-            <p class="grey-text">
-                <a href="https://drive.google.com/file/d/1yRzXWIJd4IEwXms42aML7FSTv6sevvKb/view?usp=sharing" target="_blank">Click para acceder</a>
-            </p>
-        </div>
-        <!-- Grid column -->
+        <div class="col-lg-7">
+
+            <!-- Grid row -->
+            <div class="row mb-3">
+
+                <!-- Grid column -->
+                <div class="col-1">
+                    <i class="fas fa-star-of-life mt-1"></i>
+                </div>
+                <!-- Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-xl-10 col-md-11 col-10">
+                    <h5 class="font-weight-bold mb-3">Características de software y Hardware</h5>
+                    <p class="grey-text">
+                        <a href="https://drive.google.com/file/d/1yRzXWIJd4IEwXms42aML7FSTv6sevvKb/view?usp=sharing" target="_blank">Click para acceder</a>
+                    </p>
+                </div>
+                <!-- Grid column -->
+
+            </div>
+            <!-- Grid row -->
+
+
+            <!-- Grid row -->
+            <div class="row mb-3">
+
+                <!-- Grid column -->
+                <div class="col-1">
+                    <i class="fas fa-star-of-life mt-1"></i>
+                </div>
+                <!-- Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-xl-10 col-md-11 col-10">
+                    <h5 class="font-weight-bold mb-3">Comandos básicos de Linux</h5>
+                    <p class="grey-text">
+                        <a href="https://drive.google.com/file/d/1GNoLqch8b9hVeWc5ujzDejW8h4uZx0-k/view?usp=sharing" target="_blank">Click para acceder</a>
+                    </p>
+                </div>
+                <!-- Grid column -->
+
+            </div>
+            <!-- Grid row -->
+
+            <!-- Grid row -->
+            <div class="row mb-3">
+
+                <!-- Grid column -->
+                <div class="col-1">
+                    <i class="fas fa-star-of-life mt-1"></i>
+                </div>
+                <!-- Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-xl-10 col-md-11 col-10">
+                    <h5 class="font-weight-bold mb-3">Uso de Inkari</h5>
+                    <p class="grey-text">
+                        <a href="https://drive.google.com/file/d/1mEs5Xxm3hcVudRQZc_8zy9UU5JEf-vB2/view?usp=sharing" target="_blank">Click para acceder</a>
+                    </p>
+                </div>
+                <!-- Grid column -->
+
+            </div>
+            <!-- Grid row -->
+
+            <!-- Grid row -->
+            <div class="row mb-3">
+
+                <!-- Grid column -->
+                <div class="col-1">
+                    <i class="fas fa-star-of-life mt-1"></i>
+                </div>
+                <!-- Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-xl-10 col-md-11 col-10">
+                    <h5 class="font-weight-bold mb-3">Charla Julio 2021</h5>
+                    <p class="grey-text">
+                        <a href="https://drive.google.com/drive/folders/1oZPXgJD8o7NyPoYWLbonuoVHKHruqBFj?usp=sharing" target="_blank">Click para acceder</a>
+                    </p>
+                </div>
+                <!-- Grid column -->
+
+            </div>
+            <!-- Grid row -->
+
+            <!-- Grid row -->
+            <div class="row mb-3">
+
+                <!-- Grid column -->
+                <div class="col-1">
+                    <i class="fas fa-star-of-life mt-1"></i>
+                </div>
+                <!-- Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-xl-10 col-md-11 col-10">
+                    <h5 class="font-weight-bold mb-3">Segunda charla 2022</h5>
+                    <p class="grey-text">
+                        <a href="https://drive.google.com/drive/folders/1piY2CA2j2CSE5Kp8kBO6m-VDwRW79n2-?usp=share_link" target="_blank">Click para acceder</a>
+                    </p>
+                </div>
+                <!-- Grid column -->
+
+            </div>
+            <!-- Grid row -->
+
+            <!-- Grid row -->
+            <div class="row mb-3">
+
+                <!-- Grid column -->
+                <div class="col-1">
+                    <i class="fas fa-star-of-life mt-1"></i>
+                </div>
+                <!-- Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-xl-10 col-md-11 col-10">
+                    <h5 class="font-weight-bold mb-3">Migración de PBS a SLURM</h5>
+                    <p class="grey-text">
+                        <a href="<?=get_page_link(35);?>" target="_blank">Click para acceder</a>
+                    </p>
+                </div>
+                <!-- Grid column -->
+
+            </div>
+            <!-- Grid row -->
+
+            <!-- Grid row -->
+            <div class="row mb-3">
+
+                <!-- Grid column -->
+                <div class="col-1">
+                    <i class="fas fa-star-of-life mt-1"></i>
+                </div>
+                <!-- Grid column -->
+
+                <!-- Grid column -->
+                <div class="col-xl-10 col-md-11 col-10">
+                    <h5 class="font-weight-bold mb-3">Archivo</h5>
+                    <p class="grey-text">
+                        <ul>
+                            <li>
+                                <a href="<?=get_page_link(42);?>" target="_blank">Curso de orientación</a>
+                            </li>
+                            <li>
+                                <a href="<?=get_page_link(44);?>" target="_blank">Curso de introducción al ambiente Linux</a>
+                            </li>
+                            <li>
+                                <a href="<?=get_page_link(20);?>" target="_blank">Proyectos</a>
+                            </li>
+                            <li>
+                                <a href="<?=get_page_link(30);?>" target="_blank">Informes</a>
+                            </li>
+                        </ul>
+                    </p>
+                </div>
+                <!-- Grid column -->
+
+            </div>
+            <!-- Grid row -->
 
         </div>
-        <!-- Grid row -->
-
-
-        <!-- Grid row -->
-        <div class="row mb-3">
-
-        <!-- Grid column -->
-        <div class="col-1">
-            <i class="fas fa-star-of-life mt-1"></i>
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-xl-10 col-md-11 col-10">
-            <h5 class="font-weight-bold mb-3">Comandos básicos de Linux</h5>
-            <p class="grey-text">
-                <a href="https://drive.google.com/file/d/1GNoLqch8b9hVeWc5ujzDejW8h4uZx0-k/view?usp=sharing" target="_blank">Click para acceder</a>
-            </p>
-        </div>
-        <!-- Grid column -->
-
-        </div>
-        <!-- Grid row -->
-
-        <!-- Grid row -->
-        <div class="row mb-3">
-
-        <!-- Grid column -->
-        <div class="col-1">
-            <i class="fas fa-star-of-life mt-1"></i>
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-xl-10 col-md-11 col-10">
-            <h5 class="font-weight-bold mb-3">Uso básico de Inkari</h5>
-            <p class="grey-text">
-                <a href="https://drive.google.com/file/d/1SvTR5xqY2uGLoZ1kfJyLjvnTxJ28N8Z6/view?usp=sharing" target="_blank">Click para acceder</a>
-            </p>
-        </div>
-        <!-- Grid column -->
-
-        </div>
-        <!-- Grid row -->
-
-        <!-- Grid row -->
-        <div class="row mb-3">
-
-        <!-- Grid column -->
-        <div class="col-1">
-            <i class="fas fa-star-of-life mt-1"></i>
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-xl-10 col-md-11 col-10">
-            <h5 class="font-weight-bold mb-3">Charla Julio 2021</h5>
-            <p class="grey-text">
-                <a href="https://drive.google.com/drive/folders/1oZPXgJD8o7NyPoYWLbonuoVHKHruqBFj?usp=sharing" target="_blank">Click para acceder</a>
-            </p>
-        </div>
-        <!-- Grid column -->
-
-        </div>
-        <!-- Grid row -->
-
-        <!-- Grid row -->
-        <div class="row mb-3">
-
-        <!-- Grid column -->
-        <div class="col-1">
-            <i class="fas fa-star-of-life mt-1"></i>
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-xl-10 col-md-11 col-10">
-            <h5 class="font-weight-bold mb-3">Migración de PBS a SLURM</h5>
-            <p class="grey-text">
-                <a href="<?=get_page_link(35);?>" target="_blank">Click para acceder</a>
-            </p>
-        </div>
-        <!-- Grid column -->
-
-        </div>
-        <!-- Grid row -->
-
-        <!-- Grid row -->
-        <div class="row mb-3">
-
-        <!-- Grid column -->
-        <div class="col-1">
-            <i class="fas fa-star-of-life mt-1"></i>
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-xl-10 col-md-11 col-10">
-            <h5 class="font-weight-bold mb-3">Archivo</h5>
-            <p class="grey-text">
-                <ul>
-                    <li>
-                        <a href="<?=get_page_link(42);?>" target="_blank">Curso de orientación</a>
-                    </li>
-                    <li>
-                        <a href="<?=get_page_link(44);?>" target="_blank">Curso de introducción al ambiente Linux</a>
-                    </li>
-                    <li>
-                        <a href="<?=get_page_link(20);?>" target="_blank">Proyectos</a>
-                    </li>
-                    <li>
-                        <a href="<?=get_page_link(30);?>" target="_blank">Informes</a>
-                    </li>
-                </ul>
-            </p>
-        </div>
-        <!-- Grid column -->
-
-        </div>
-        <!-- Grid row -->
-
-    </div>
-    <!--Grid column-->
+        <!--Grid column-->
 
     </div>
     <!-- Grid row -->
