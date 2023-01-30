@@ -12,7 +12,7 @@ RUN a2enmod rewrite
 RUN curl -sS https://getcomposer.org/installer | php
 RUN mv composer.phar /usr/local/bin/composer
 
-RUN apt-get install -y sudo git npm && apt-get autoremove -y && apt-get clean -y && rm -rf /var/lib/apt/lists/*
+RUN apt-get install -y sudo git npm vim && apt-get autoremove -y && apt-get clean -y && rm -rf /var/lib/apt/lists/*
 
 # USER
 #ARG USERNAME=nonroot

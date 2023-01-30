@@ -71,6 +71,14 @@ get_template_part('page-header');
         <li>
             Solicitudes de registro: <a class="btn btn-info btn-sm" target="_blank" href="https://docs.google.com/spreadsheets/d/1cWBTPwLY4oIFk0UYx9N7yBjJLkEynl7dRUM07qYXz5I/edit#gid=629575200">Ver</a>
         </li>
+        <li>
+            Solicitudes aceptadas: <a class="btn btn-info btn-sm" target="_blank" href="https://docs.google.com/spreadsheets/d/1R2rgRVuIgqpFbaI1iOQ9It9xupAZcslpo0V2YfMPOfU/edit#gid=1088290441?usp=sharing">Ver</a>
+        </li>
+
+        <hr/>
+        <li>
+            Actividades de mantenimiento: <a class="btn btn-info btn-sm" target="_blank" href="https://docs.google.com/spreadsheets/d/1u7II4yBcCMi_Ze1ON3PhA6wb7LihYVecfJmfxTuGn9w/edit?usp=sharing">Ver</a>
+        </li>
     </ul>
 
     <?php
